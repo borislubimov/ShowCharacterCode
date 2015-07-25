@@ -2,7 +2,7 @@
 
 Simple Sublime Text plugin for displaying decimal code of the current character in the status bar.
 
-![screencast](http://i.imgur.com/QpiuvqB.gif?1)
+![screencast](http://i.imgur.com/t2nGYz1.gif?1)
 
 ## Installation
 
