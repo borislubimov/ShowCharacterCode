@@ -1,8 +1,8 @@
-# Show ASCII Code
+# Show Character Code
 
-Simple Sublime Text plugin for displaying ASCII code of the current character in the status bar.
+Simple Sublime Text plugin for displaying decimal code of the current character in the status bar.
 
-![screencast](http://i.imgur.com/IlpvsP8.gif?1)
+![screencast](http://i.imgur.com/QpiuvqB.gif?1)
 
 ## Installation
 
@@ -11,6 +11,6 @@ Simple Sublime Text plugin for displaying ASCII code of the current character in
 	* OS X: `~/Library/Application Support/Sublime Text 2/Packages/`
 	* Linux: `~/.config/sublime-text-2/Packages/`
 	* Portable Installation: `Sublime Text 2/Data/Packages/`
-2. `git clone https://github.com/borislubimov/ShowAsciiCode.git`
+2. `git clone https://github.com/borislubimov/ShowCharacterCode.git`
 
 _**Note**: For Sublime Text 3 users, substitute the `2` in the above directory names with `3`._
