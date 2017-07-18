@@ -11,4 +11,4 @@ class ShowCharCodeCommand(sublime_plugin.EventListener):
 
     def show_char_code(self, view):
         selected = view.substr(view.sel()[0].a)
-        view.set_status('charcode', "Char Code: {0}".format(ord(selected)))
+        view.set_status('charcode', "Char Code: {0} | {0:x}".format(ord(selected)))
