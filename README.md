@@ -1,5 +1,7 @@
 # Show Character Code
 
+[![Package Control](https://packagecontrol.herokuapp.com/downloads/Show%20Character%20Code.svg?style=round-square)](https://packagecontrol.io/packages/Show%20Character%20Code)
+
 Simple Sublime Text plugin for displaying decimal code of the current character in the status bar.
 
 ![screencast](http://i.imgur.com/CJj0Bnc.gif)
