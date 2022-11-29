@@ -16,11 +16,9 @@ Simple Sublime Text plugin for displaying decimal code of the current character 
 
 ### Manual
 
-1. CD into your Sublime Text 2 Packages directory
-	* Windows: `%APPDATA%\Sublime Text 2\Packages\`
-	* OS X: `~/Library/Application Support/Sublime Text 2/Packages/`
-	* Linux: `~/.config/sublime-text-2/Packages/`
-	* Portable Installation: `Sublime Text 2/Data/Packages/`
+1. CD into your Sublime Text Packages directory
+	* Windows: `%APPDATA%\Sublime Text\Packages`
+	* OS X: `"~/Library/Application Support/Sublime Text/Packages"`
+	* Linux: `~/.config/sublime-text/Packages`
+	* Portable Installation: `Sublime Text/Data/Packages`
 2. `git clone https://github.com/borislubimov/ShowCharacterCode.git`
-
-_**Note**: For Sublime Text 3 users, substitute the `2` in the above directory names with `3`._
