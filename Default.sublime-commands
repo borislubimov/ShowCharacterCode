@@ -1,0 +1,17 @@
+[
+    {
+        "caption": "Show Character Code: Off",
+        "command": "show_character_code",
+        "args": { "mode": 0 }
+    },
+    {
+        "caption": "Show Character Code: Hex Only",
+        "command": "show_character_code",
+        "args": { "mode": 1 }
+    },
+    {
+        "caption": "Show Character Code: Hex and Dec",
+        "command": "show_character_code",
+        "args": { "mode": 2 }
+    }
+]
